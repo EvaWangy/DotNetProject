@@ -1,2 +1,2 @@
 # DotNetProject-Progenity
-exercise from progenity
+// program exercise from progenity

@@ -137,6 +137,7 @@ namespace TimerService
             }
         }
 
+        //validate csv lines
         private static bool IsValidCsv(string[] headers, string[] lines)
         {
             try

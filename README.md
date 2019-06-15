@@ -1,5 +1,4 @@
 # DotNetProject
-// program exercise from progenity
 
 
 1. Before run the application, please check if the files folder set up right,

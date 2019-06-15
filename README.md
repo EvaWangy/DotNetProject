@@ -1,4 +1,4 @@
-# DotNetProject-Progenity
+# DotNetProject
 // program exercise from progenity
 
 
